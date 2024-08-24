@@ -23,9 +23,13 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
+Waterfall methodology has sequential approach with distinct phases such as requirement, design and implementation while while agile methodology has iterative and incremental approach focused on flexibility collaboration and responding to change.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
+software developer - writing code and implementing software solution
+Quality Assurance Engineer - ensure software quality by designing and executing test plan
+Project manager - oversee the planning, execution, delivery of software project
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 IDEs - They help in writing code,debugging and testing code e.g visual studio
@@ -36,15 +40,20 @@ What are some common challenges faced by software engineers? Provide strategies 
 2. Technical Debt can be solved by ensuring software engineers follow strictly the laid out project plan without shortcut so as to prevent software misfunction which may increase maintenance cost.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-unit testing - testing individual componet or module of software
-Intergration tesing - testing interaction between components or subsystem
-System testing - Testing entire software
-Acceptance testing - testing software against user requirements to ensure it meets user need
+unit testing - testing individual componet or module of software and it helps in preventing error at a module level
+Intergration tesing - testing interaction between components or subsystem and it helps in preventing errors while doing intergration
+System testing - Testing entire software and it helps in preventing error during software functioning
+Acceptance testing - testing software against user requirements to ensure it meets user need and it helps users in giving feedback after interacting with the softaware
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is all about crafting questions to get best possible responses from AI model and its important by helping avoid avoid that by making questions more clear and specific, so the AI understands exactly what we need.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+
+Vague prompt - Tell me about software engineer
+Clear prompt - Tell me evolution of softawre engineer and why it is important in the technology industry
+The clear prompt is much effective since keywords that guide the AI toward the kind of response the user wants
+
